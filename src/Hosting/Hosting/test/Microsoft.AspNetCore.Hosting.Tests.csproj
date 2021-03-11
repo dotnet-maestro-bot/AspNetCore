@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>$(DefaultNetCoreTargetFramework)</TargetFramework>
+    <TestGroupName>Hosting.Tests</TestGroupName>
   </PropertyGroup>
 
   <ItemGroup>
